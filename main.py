@@ -1,6 +1,7 @@
 import streamlit as st
 import joblib
 import numpy as np
+import sklearn
 
 # Set the app title
 st.title("Fifa Player Ratings Predictor")
